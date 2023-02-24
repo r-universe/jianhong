@@ -18,3 +18,8 @@
 	url = https://github.com/jianhong/genomicinteractionnodes
 	shallow = true
 	registered = true
+[submodule "scRNAseqApp"]
+	path = scRNAseqApp
+	url = https://github.com/jianhong/scrnaseqapp
+	shallow = true
+	registered = true
