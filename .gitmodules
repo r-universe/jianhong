@@ -8,14 +8,14 @@
 	url = https://github.com/jianhong/atacseqtfea
 	shallow = true
 	registered = true
-[submodule "GenomicInteractionNodes"]
-	path = GenomicInteractionNodes
-	url = https://github.com/jianhong/genomicinteractionnodes
-	shallow = true
-	registered = true
 [submodule "enhancerHomologSearch"]
 	path = enhancerHomologSearch
 	url = https://github.com/jianhong/enhancerhomologsearch
+	shallow = true
+	registered = true
+[submodule "GenomicInteractionNodes"]
+	path = GenomicInteractionNodes
+	url = https://github.com/jianhong/genomicinteractionnodes
 	shallow = true
 	registered = true
 [submodule "scRNAseqApp"]
