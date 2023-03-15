@@ -1,14 +1,41 @@
 [
   {
+    "package": "ATACseqQC"
+  },
+  {
     "package": "ATACseqTFEA"
+  },
+  {
+    "package": "ChIPpeakAnno"
+  },
+  {
+    "package": "dagLogo"
   },
   {
     "package": "enhancerHomologSearch"
   },
   {
+    "package": "GeneNetworkBuilder"
+  },
+  {
     "package": "GenomicInteractionNodes"
   },
   {
+    "package": "InPAS"
+  },
+  {
+    "package": "motifStack"
+  },
+  {
+    "package": "NADfinder"
+  },
+  {
+    "package": "ribosomeProfilingQC"
+  },
+  {
     "package": "scRNAseqApp"
+  },
+  {
+    "package": "trackViewer"
   }
 ]

@@ -3,9 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ATACseqQC"]
+	path = ATACseqQC
+	url = https://github.com/jianhong/atacseqqc
+	shallow = true
+	registered = true
 [submodule "ATACseqTFEA"]
 	path = ATACseqTFEA
 	url = https://github.com/jianhong/atacseqtfea
+	shallow = true
+	registered = true
+[submodule "ChIPpeakAnno"]
+	path = ChIPpeakAnno
+	url = https://github.com/jianhong/chippeakanno
+	shallow = true
+	registered = true
+[submodule "dagLogo"]
+	path = dagLogo
+	url = https://github.com/jianhong/daglogo
 	shallow = true
 	registered = true
 [submodule "enhancerHomologSearch"]
@@ -13,13 +28,43 @@
 	url = https://github.com/jianhong/enhancerhomologsearch
 	shallow = true
 	registered = true
+[submodule "GeneNetworkBuilder"]
+	path = GeneNetworkBuilder
+	url = https://github.com/jianhong/genenetworkbuilder
+	shallow = true
+	registered = true
 [submodule "GenomicInteractionNodes"]
 	path = GenomicInteractionNodes
 	url = https://github.com/jianhong/genomicinteractionnodes
 	shallow = true
 	registered = true
+[submodule "InPAS"]
+	path = InPAS
+	url = https://github.com/jianhong/inpas
+	shallow = true
+	registered = true
+[submodule "motifStack"]
+	path = motifStack
+	url = https://github.com/jianhong/motifstack
+	shallow = true
+	registered = true
+[submodule "NADfinder"]
+	path = NADfinder
+	url = https://github.com/jianhong/nadfinder
+	shallow = true
+	registered = true
+[submodule "ribosomeProfilingQC"]
+	path = ribosomeProfilingQC
+	url = https://github.com/jianhong/ribosomeprofilingqc
+	shallow = true
+	registered = true
 [submodule "scRNAseqApp"]
 	path = scRNAseqApp
 	url = https://github.com/jianhong/scrnaseqapp
+	shallow = true
+	registered = true
+[submodule "trackViewer"]
+	path = trackViewer
+	url = https://github.com/jianhong/trackviewer
 	shallow = true
 	registered = true
