@@ -3,10 +3,10 @@
     "package": "ATACseqTFEA"
   },
   {
-    "package": "enhancerHomologSearch"
+    "package": "GenomicInteractionNodes"
   },
   {
-    "package": "GenomicInteractionNodes"
+    "package": "enhancerHomologSearch"
   },
   {
     "package": "scRNAseqApp"
