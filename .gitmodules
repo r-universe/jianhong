@@ -18,6 +18,11 @@
 	url = https://github.com/jianhong/chippeakanno
 	shallow = true
 	registered = true
+[submodule "colorBlindness"]
+	path = colorBlindness
+	url = https://github.com/cran/colorBlindness
+	shallow = true
+	registered = true
 [submodule "dagLogo"]
 	path = dagLogo
 	url = https://github.com/jianhong/daglogo
