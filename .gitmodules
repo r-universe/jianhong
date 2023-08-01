@@ -11,15 +11,6 @@
 [submodule "ChIPpeakAnno"]
 	path = ChIPpeakAnno
 	url = https://github.com/jianhong/chippeakanno
-[submodule "colorBlindness"]
-	path = colorBlindness
-	url = https://github.com/cran/colorBlindness
-[submodule "dagLogo"]
-	path = dagLogo
-	url = https://github.com/jianhong/daglogo
-[submodule "enhancerHomologSearch"]
-	path = enhancerHomologSearch
-	url = https://github.com/jianhong/enhancerhomologsearch
 [submodule "GeneNetworkBuilder"]
 	path = GeneNetworkBuilder
 	url = https://github.com/jianhong/genenetworkbuilder
@@ -29,12 +20,21 @@
 [submodule "InPAS"]
 	path = InPAS
 	url = https://github.com/jianhong/inpas
-[submodule "motifStack"]
-	path = motifStack
-	url = https://github.com/jianhong/motifstack
 [submodule "NADfinder"]
 	path = NADfinder
 	url = https://github.com/jianhong/nadfinder
+[submodule "colorBlindness"]
+	path = colorBlindness
+	url = https://github.com/cran/colorBlindness
+[submodule "dagLogo"]
+	path = dagLogo
+	url = https://github.com/jianhong/daglogo
+[submodule "enhancerHomologSearch"]
+	path = enhancerHomologSearch
+	url = https://github.com/jianhong/enhancerhomologsearch
+[submodule "motifStack"]
+	path = motifStack
+	url = https://github.com/jianhong/motifstack
 [submodule "ribosomeProfilingQC"]
 	path = ribosomeProfilingQC
 	url = https://github.com/jianhong/ribosomeprofilingqc
