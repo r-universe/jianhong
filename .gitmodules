@@ -32,6 +32,9 @@
 [submodule "enhancerHomologSearch"]
 	path = enhancerHomologSearch
 	url = https://github.com/jianhong/enhancerhomologsearch
+[submodule "hicVennDiagram"]
+	path = hicVennDiagram
+	url = https://github.com/jianhong/hicvenndiagram
 [submodule "motifStack"]
 	path = motifStack
 	url = https://github.com/jianhong/motifstack
