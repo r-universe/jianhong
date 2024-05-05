@@ -2,48 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ATACseqQC"]
-	path = ATACseqQC
-	url = https://github.com/jianhong/atacseqqc
-[submodule "ATACseqTFEA"]
-	path = ATACseqTFEA
-	url = https://github.com/jianhong/atacseqtfea
-[submodule "ChIPpeakAnno"]
-	path = ChIPpeakAnno
-	url = https://github.com/jianhong/chippeakanno
-[submodule "GeneNetworkBuilder"]
-	path = GeneNetworkBuilder
-	url = https://github.com/jianhong/genenetworkbuilder
-[submodule "GenomicInteractionNodes"]
-	path = GenomicInteractionNodes
-	url = https://github.com/jianhong/genomicinteractionnodes
-[submodule "InPAS"]
-	path = InPAS
-	url = https://github.com/jianhong/inpas
-[submodule "NADfinder"]
-	path = NADfinder
-	url = https://github.com/jianhong/nadfinder
 [submodule "colorBlindness"]
 	path = colorBlindness
 	url = https://github.com/cran/colorBlindness
-[submodule "dagLogo"]
-	path = dagLogo
-	url = https://github.com/jianhong/daglogo
-[submodule "enhancerHomologSearch"]
-	path = enhancerHomologSearch
-	url = https://github.com/jianhong/enhancerhomologsearch
-[submodule "hicVennDiagram"]
-	path = hicVennDiagram
-	url = https://github.com/jianhong/hicvenndiagram
-[submodule "motifStack"]
-	path = motifStack
-	url = https://github.com/jianhong/motifstack
-[submodule "ribosomeProfilingQC"]
-	path = ribosomeProfilingQC
-	url = https://github.com/jianhong/ribosomeprofilingqc
-[submodule "scRNAseqApp"]
-	path = scRNAseqApp
-	url = https://github.com/jianhong/scrnaseqapp
-[submodule "trackViewer"]
-	path = trackViewer
-	url = https://github.com/jianhong/trackviewer
